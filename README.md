@@ -41,6 +41,8 @@ https://www.linkedin.com/in/adnan061
 🔗 GitHub  
 https://github.com/Rayyan061
 
+🔗 Upwork  
+[https://github.com/Rayyan061](https://www.upwork.com/freelancers/~01aacd0920a0dd5003?mp_source=share)
 ---
 
 ## 🧠 Skills
