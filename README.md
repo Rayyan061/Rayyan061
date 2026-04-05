@@ -1,54 +1,111 @@
-## Hi there 👋
+# Hi 👋 I'm Adnan Ahmed
 
-<!--
-**Rayyan061/Rayyan061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Adnan Ahmed 👋
-
-## 🚀 AI Tools Developer | SEO Specialist | WordPress Expert
-
-I build AI tool websites, SEO optimized landing pages, and custom WordPress themes.
-I help businesses grow using AI automation and search ranking strategies.
+🚀 AI Tools Developer | SEO Specialist | WordPress Expert
+I build AI-powered tools, SEO optimized websites, and high-converting landing pages.
+Helping businesses grow with automation, UX design, and search engine ranking strategies.
 
 ---
 
-## 💼 Career
+# 💼 Professional Summary
 
-• AI Tools Website Developer  
-• WordPress Theme Developer  
-• SEO Landing Page Expert  
-• AI Generator Tools Builder  
-• GitHub + WordPress Integration  
+✔ AI Tools Website Development
+✔ WordPress Theme & Plugin Development
+✔ SEO Landing Page Optimization
+✔ AI Generator Tools Development
+✔ GitHub Deployment & Integration
+✔ UI/UX Design for Tool Websites
+✔ Responsive Website Development
 
 ---
 
-## 🌐 Professional Profiles
+# 🧠 Skills
 
-🔗 LinkedIn  
+### Development
+
+* WordPress Theme Development
+* PHP / HTML / CSS / JavaScript
+* AI Tools Integration
+* Custom WordPress Plugins
+* GitHub Deployment
+
+### SEO
+
+* On-Page SEO
+* Technical SEO
+* Semantic SEO
+* Topical Authority Building
+* Keyword Research
+
+### Design
+
+* Landing Page UX
+* Conversion Optimization
+* Mobile Responsive Design
+* Tool Website UI Design
+
+---
+
+# 🌐 Professional Profiles
+
+### Upwork
+
+https://www.upwork.com/freelancers/~01aacd0920a0dd5003?mp_source=share
+
+### LinkedIn
+
 https://www.linkedin.com/in/adnan061
 
-🔗 GitHub  
+### GitHub
+
 https://github.com/Rayyan061
 
-🔗 Upwork  
-[https://github.com/Rayyan061](https://www.upwork.com/freelancers/~01aacd0920a0dd5003?mp_source=share)
 ---
 
-## 🧠 Skills
+# 🚀 Services I Offer
 
-WordPress • PHP • SEO • AI Tools • UX Design • GitHub • Responsive Design
+• AI Tool Website Development
+• AI Generator Tools
+• WordPress Theme Development
+• SEO Landing Page Design
+• Website Speed Optimization
+• Technical SEO Fixes
+• UI/UX Design
+• GitHub Deployment
 
 ---
 
-⭐ Available for freelance projects
+# 📂 Featured Work
+
+🔹 AI Title Generator Website
+🔹 AI Tools Directory Website
+🔹 SEO Service Business Landing Page
+🔹 WordPress AI Tool Plugin
+🔹 Responsive CTA Conversion Pages
+
+---
+
+# 📈 Currently Working On
+
+* AI Tools Website Platform
+* SEO Authority Site
+* WordPress AI Plugins
+* AI Generator Tools
+
+---
+
+# 📫 Contact Me
+
+LinkedIn:
+https://www.linkedin.com/in/adnan061
+
+Upwork:
+https://www.upwork.com/freelancers/~01aacd0920a0dd5003?mp_source=share
+
+GitHub:
+https://github.com/Rayyan061
+
+---
+
+⭐ Available for Freelance Projects
+⭐ Long-Term Collaboration Welcome
+⭐ AI Tools & SEO Expert
