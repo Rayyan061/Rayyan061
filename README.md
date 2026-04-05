@@ -14,3 +14,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Adnan Ahmed 👋
+
+## 🚀 AI Tools Developer | SEO Specialist | WordPress Expert
+
+I build AI tool websites, SEO optimized landing pages, and custom WordPress themes.
+I help businesses grow using AI automation and search ranking strategies.
+
+---
+
+## 💼 Career
+
+• AI Tools Website Developer  
+• WordPress Theme Developer  
+• SEO Landing Page Expert  
+• AI Generator Tools Builder  
+• GitHub + WordPress Integration  
+
+---
+
+## 🌐 Professional Profiles
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/adnan061
+
+🔗 GitHub  
+https://github.com/Rayyan061
+
+---
+
+## 🧠 Skills
+
+WordPress • PHP • SEO • AI Tools • UX Design • GitHub • Responsive Design
+
+---
+
+⭐ Available for freelance projects
