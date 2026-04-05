@@ -81,15 +81,23 @@ https://github.com/Rayyan061
 🔹 SEO Service Business Landing Page
 🔹 WordPress AI Tool Plugin
 🔹 Responsive CTA Conversion Pages
+🔹 USA Client SEO Project — https://dfwroyallimo.com
 
 ---
 
 # 📈 Currently Working On
 
-* AI Tools Website Platform
-* SEO Authority Site
-* WordPress AI Plugins
-* AI Generator Tools
+🇺🇸 USA Client Project — https://dfwroyallimo.com
+• SEO Landing Page Optimization
+• Local SEO Dallas Pages
+• CTA Conversion Improvements
+• Semantic SEO Structure
+• E-E-A-T Authority Building
+• Technical SEO Fixes
+
+• AI Tools Website Platform
+• WordPress AI Plugins
+• AI Generator Tools
 
 ---
 
