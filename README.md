@@ -1,6 +1,6 @@
 # Hi 👋 I'm Adnan Ahmed
 
-🚀 AI Tools Developer | SEO Specialist | WordPress Expert
+🚀 AI Tools Developer | SEO Specialist | WordPress Expert | Vibe Coding
 I build AI-powered tools, SEO optimized websites, and high-converting landing pages.
 Helping businesses grow with automation, UX design, and search engine ranking strategies.
 
