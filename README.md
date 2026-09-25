@@ -1,87 +1,116 @@
+
 # Hi 👋 I'm Adnan Ahmed
 
-🚀 AI Tools Developer | SEO Specialist | WordPress Expert | Vibe Coding
-I build AI-powered tools, SEO optimized websites, and high-converting landing pages.
-Helping businesses grow with automation, UX design, and search engine ranking strategies.
+🚀 AI Tools Developer | Semantic SEO Specialist | WordPress Developer | Vibe Coding
+
+I build AI-powered tools, SEO-optimized websites, custom WordPress plugins, and high-converting landing pages.
+
+I help businesses improve Google rankings, increase organic traffic, and build user-friendly websites using modern development tools and AI-assisted coding.
 
 ---
 
 # 💼 Professional Summary
 
-✔ AI Tools Website Development
-✔ WordPress Theme & Plugin Development
-✔ SEO Landing Page Optimization
-✔ AI Generator Tools Development
-✔ GitHub Deployment & Integration
-✔ UI/UX Design for Tool Websites
-✔ Responsive Website Development
+✔ AI Tools Website & Generator Development  
+✔ Custom WordPress Theme & Plugin Development  
+✔ Semantic SEO & Topical Authority Building  
+✔ Google Search Ranking & Organic Traffic Optimization  
+✔ Local SEO & Technical SEO  
+✔ SEO Landing Page & CTA Optimization  
+✔ AI-Assisted Development & Vibe Coding  
+✔ Responsive Website & UI/UX Development  
+✔ Google Search Console Performance Analysis  
+✔ GitHub Deployment & Version Control  
 
 ---
 
 # 🧠 Skills
 
-### Development
+### 💻 Web Development
 
-* WordPress Theme Development
-* PHP / HTML / CSS / JavaScript
-* AI Tools Integration
-* Custom WordPress Plugins
-* GitHub Deployment
+- WordPress Theme Development
+- Custom WordPress Plugin Development
+- PHP / HTML / CSS / JavaScript
+- AI Tools & API Integration
+- Responsive Website Development
+- Git & GitHub Deployment
 
-### SEO
+### 📈 SEO & Google Rankings
 
-* On-Page SEO
-* Technical SEO
-* Semantic SEO
-* Topical Authority Building
-* Keyword Research
+- On-Page & Technical SEO
+- Semantic SEO & Entity Optimization
+- Topical Authority & Content Clusters
+- Google Search Ranking Optimization
+- Organic Traffic & CTR Optimization
+- Local SEO & Location-Based Landing Pages
+- Google Search Console Analysis
+- Keyword Research & Search Intent
+- E-E-A-T & Schema Markup
+- Internal Linking & Content Optimization
 
-### Design
+### 🤖 AI Coding & Development Tools
 
-* Landing Page UX
-* Conversion Optimization
-* Mobile Responsive Design
-* Tool Website UI Design
+- Visual Studio Code (VS Code)
+- OpenAI Codex
+- Cursor AI
+- Google Antigravity
+- AI-Assisted Coding & Vibe Coding
+- AI-Based Code Review & Debugging
+
+### 🎨 UI/UX & Conversion
+
+- SEO Landing Page Design
+- Conversion Rate Optimization
+- Mobile Responsive Design
+- AI Tool Website UI/UX
+- Website Speed Optimization
+- CTA Design & User Experience
 
 ---
 
 # 🌐 Professional Profiles
 
-### Upwork
+### 💼 Upwork
+[Hire Me on Upwork](https://www.upwork.com/freelancers/~01aacd0920a0dd5003?mp_source=share)
 
-https://www.upwork.com/freelancers/~01aacd0920a0dd5003?mp_source=share
+### 🔗 LinkedIn
+[Connect with Me on LinkedIn](https://www.linkedin.com/in/adnan061)
 
-### LinkedIn
-
-https://www.linkedin.com/in/adnan061
-
-### GitHub
-
-https://github.com/Rayyan061
+### 💻 GitHub
+[Explore My GitHub](https://github.com/Rayyan061)
 
 ---
 
-# 🚀 Services I Offer
+## 🚀 Services I Offer
 
-• AI Tool Website Development
-• AI Generator Tools
-• WordPress Theme Development
-• SEO Landing Page Design
-• Website Speed Optimization
-• Technical SEO Fixes
-• UI/UX Design
-• GitHub Deployment
+- Semantic SEO & Topical Authority Building
+- Google Rankings & Organic Traffic Optimization
+- Local SEO & Google Search Console Analysis
+- Technical SEO, Schema Markup & E-E-A-T
+- SEO Landing Pages & Conversion Optimization
+- AI Tool Website & Generator Development
+- Custom WordPress Plugin & Theme Development
+- AI-Assisted Website & Plugin Development
+- Website Speed Optimization & UI/UX Design
+- Keyword Research & SEO Content Strategy
+- GitHub Deployment & Website Maintenance
 
 ---
 
-# 📂 Featured Work
+## 💻 Development Tools & AI Coding
 
-🔹 AI Title Generator Website
-🔹 AI Tools Directory Website
-🔹 SEO Service Business Landing Page
-🔹 WordPress AI Tool Plugin
-🔹 Responsive CTA Conversion Pages
-🔹 USA Client SEO Project — https://dfwroyallimo.com
+- **VS Code** — Web Development & Debugging
+- **OpenAI Codex** — AI-Assisted Coding & Code Review
+- **Cursor AI** — AI-Assisted Development
+- **Google Antigravity** — AI Coding & Development
+- **Git & GitHub** — Version Control & Deployment
+- **WordPress** — Custom Themes & Plugin Development
+
+### 🛠️ Tech Stack
+
+HTML • CSS • JavaScript • PHP • WordPress •
+VS Code • Codex • Cursor • Antigravity •
+Git • GitHub
 
 ---
 
@@ -156,6 +185,14 @@ Whatsapp:
 +923028387130
 ---
 
-⭐ Available for Freelance Projects
-⭐ Long-Term Collaboration Welcome
-⭐ AI Tools & SEO Expert
+# 🤝 Let's Connect
+
+Open to freelance projects involving:
+
+- Semantic SEO & Organic Traffic Growth
+- AI Tools & WordPress Development
+- Technical SEO & Local SEO
+- Custom WordPress Plugins
+- AI-Assisted Web Development
+- SEO Landing Pages & Website Optimization
+
