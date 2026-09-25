@@ -87,17 +87,57 @@ https://github.com/Rayyan061
 
 # 📈 Currently Working On
 
-🇺🇸 USA Client Project — https://dfwroyallimo.com
-• SEO Landing Page Optimization
-• Local SEO Dallas Pages
-• CTA Conversion Improvements
-• Semantic SEO Structure
-• E-E-A-T Authority Building
-• Technical SEO Fixes
+### 🇺🇸 USA Client Project | [DFW Royal Limo](https://dfwroyallimo.com)
+- SEO Landing Page & Local SEO Optimization
+- Dallas–Fort Worth Location-Based SEO
+- Google Search Rankings & Local Keyword Optimization
+- Google Search Console Performance & Ranking Analysis
+- Organic Traffic Growth & CTR Improvements
+- CTA & Conversion Rate Optimization
+- Semantic SEO, E-E-A-T & Technical SEO
 
-• AI Tools Website Platform
-• WordPress AI Plugins
-• AI Generator Tools
+### 🤖 AI Tools Platform | [AI Title Generator](https://aititlgenerator.com)
+- AI-Based SEO Title & Meta Description Generators
+- Custom WordPress AI Plugin Development
+- Google Keyword Rankings & SERP Visibility
+- Organic Traffic Growth & CTR Optimization
+- Semantic SEO & Topic Cluster Development
+- Technical SEO & Internal Linking
+
+### ☕ Coffee Niche | [CoffeePodH](https://coffeepodh.com)
+- Coffee Niche SEO & Topical Authority
+- Google Rankings for Coffee-Related Keywords
+- Organic Search Traffic & Keyword Position Tracking
+- Amazon Affiliate Marketing Integration
+- Product Reviews & Buying Guide Optimization
+- Semantic SEO, E-E-A-T & Technical SEO
+
+### ⚽ Football Platform | [FootballerRank](https://footballerrank.com)
+- Football Player Rankings & Statistical Comparisons
+- Google Rankings for Football-Related Keywords
+- Organic Traffic Growth & SERP Optimization
+- Football SEO Pillar Pages & Topic Clusters
+- Player Records, Achievements & Comparison Content
+- Semantic SEO & Internal Linking
+
+### 🌍 Travel Platform | [RoamPlans](https://roamplans.com)
+- Travel SEO & Destination Hub Development
+- Japan, Iceland & Portugal Travel Content
+- Google Rankings for Travel & Destination Keywords
+- Organic Traffic Growth & Search Visibility
+- Interactive Travel Planning Tools
+- Custom WordPress Plugin Development
+- Semantic SEO, E-E-A-T & Topic Clusters
+
+### 💻 SEO, Rankings & Development
+- Google Search Rankings & Keyword Position Tracking
+- Organic Traffic Growth & SERP Visibility
+- Google Search Console Performance Analysis
+- Semantic SEO & Topical Authority Building
+- Technical SEO, Schema Markup & Internal Linking
+- Custom WordPress Plugins & AI Tool Development
+- HTML, CSS, JavaScript & PHP
+- UI/UX Design & Conversion Optimization
 
 ---
 
